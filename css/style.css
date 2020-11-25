@@ -1,0 +1,22 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: lightyellow;
+}
+
+#header{
+    width: 40%;
+    margin-left: 450px;
+    text-align: center;
+    border-bottom: 3px solid red;
+    border-radius: 1px;
+}
+
+#form{
+    padding-top: 15px;
+    text-align: center;
+}
+
+.items{
+    text-align: center;
+}
